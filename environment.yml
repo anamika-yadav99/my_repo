@@ -56,7 +56,6 @@ dependencies:
       - attrs==22.1.0
       - backcall==0.2.0
       - charset-normalizer==2.1.1
-      - chemsampler==0.0.1
       - cycler==0.11.0
       - decorator==5.1.1
       - exmol==2.2.1
