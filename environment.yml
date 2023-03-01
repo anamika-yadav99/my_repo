@@ -1,0 +1,25 @@
+
+name: bimodal
+channels:
+  - conda-forge
+  - rdkit
+  - openbabel
+  - pytorch
+  - anaconda
+  - defaults
+dependencies:
+  - matplotlib
+  - nbformat
+  - numpy
+  - pandas
+  - pillow
+  - python=3.7
+  - pytorch=1.2.0
+  - torchvision=0.4.0
+  - rdkit
+  - scikit-learn
+  - scipy
+  - seaborn
+  - pip
+  - pip:
+    - torchsummary==1.5.1
