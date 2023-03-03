@@ -5,6 +5,6 @@ channels:
 dependencies:
   - python=3.8
   - rdkit
-  - pip=22.2.2
+  - pip
   - pip:
     - molecule-generation==0.3.0
