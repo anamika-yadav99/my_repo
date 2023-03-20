@@ -10,7 +10,7 @@ dependencies:
   - ca-certificates=2022.10.11
   - certifi=2022.9.24
   - cffi=1.15.0
-  - cpuonly=2.0
+  - cpuonly=1.0
   - freetype=2.12.1
   - giflib=5.2.1
   - intel-openmp=2021.4.0
@@ -40,8 +40,6 @@ dependencies:
   - pip=22.2.2
   - pycparser=2.21
   - python=3.7.0
-  - pytorch=1.2.0
-  - pytorch-mutex=1.0
   - readline=7.0
   - setuptools=65.5.0
   - six=1.16.0
@@ -52,6 +50,7 @@ dependencies:
   - xz=5.2.8
   - zlib=1.2.13
   - zstd=1.5.2
+  - pytorch=1.2.0+cpu
   - pip:
       - attrs==22.1.0
       - backcall==0.2.0
